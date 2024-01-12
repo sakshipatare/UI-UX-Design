@@ -1,2 +1,10 @@
 # UI-UX-Design
+[SCHOOL WEBSITE](https://www.figma.com/file/zJQ4pxuoCBMdcz1sgnqCul/Untitled?type=design&node-id=0%3A1&mode=design&t=oVb1mHskVQYwWr2W-1)
 [MUSIC INSTRUMENT WEBSITE](https://www.figma.com/proto/ceDcLR3IEYpZKl9wnUp1yN/Untitled?node-id=23-202&starting-point-node-id=23:202)
+[SMOOTHIES WEBSITE](https://www.figma.com/proto/tuxMoTx3betDsnHdyiGBAC/Untitled?node-id=1-2&starting-point-node-id=1:2)
+[SPOTIFY WEBSITE](https://www.figma.com/proto/ygwTZMaNE65HQsHa9AUAji/Untitled?node-id=1-2&starting-point-node-id=1:2)
+[FOOD ORDER](https://www.figma.com/proto/1P9OcCkR8bhAOMxKv8X1Cm/Untitled?node-id=1-3&starting-point-node-id=1:3)
+[FRONT PAGE OF NIKE SHOES](https://www.figma.com/file/ltcBnTU7dMlvg2fYzE3am8/Untitled?type=design&node-id=0-1&mode=design&t=AAKZbusWJtryC01A-0)
+[NIKE SHOES WEBSITE](https://www.figma.com/file/uDsNvbvYPTgd7E1HsnHpBg/Untitled?type=design&node-id=0-1&mode=design&t=oa39NRdQaTMCMjK1-0)
+[NIKE SHOES](https://www.figma.com/proto/Y8Tixw2wSKF3XaM4BkD6AG/Untitled?node-id=6-98&starting-point-node-id=1:2&scaling=scale-down)
+[3D effect WASP WEBSITE](https://q4hgy7pwwm.preview.dora.run/?project=758352&device=Desktop)
